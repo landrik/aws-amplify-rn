@@ -20,4 +20,5 @@ amplifytools.xcconfig
 #amplify-do-not-edit-end
 
 .expo/
-.vscode
+.vscode/
+amplify/
